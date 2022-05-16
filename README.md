@@ -1,9 +1,9 @@
 ## About My Career
 <a href="https://zcracker.com/client/career/zcracker" target="_blank">zcracker's career</a>
 
-## Pvivate Repository List
-1. monzland-zcracker(service on web now)
-2. monzland-mongle(service on app soon)
+## Private Repository List
+1. monzland-zcracker (service on web now)
+2. monzland-mongle (service on app soon)
 
 ## Public Repository List
 1. study-computer-science
