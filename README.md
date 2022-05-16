@@ -5,6 +5,10 @@
 1. monzland-zcracker (service on web now)
 2. monzland-mongle (service on app soon)
 
+## Private Organization Repository List
+1. zepeto-project-1 (work for a company)
+2. zepeto-project-2 (work for a company)
+
 ## Public Repository List
 1. study-computer-science
 2. study-service
