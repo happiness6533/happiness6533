@@ -6,8 +6,8 @@
 2. monzland-mongle (service on app soon)
 
 ## Private Organization Repository List
-1. zepeto-project-1 (work for a company)
-2. zepeto-project-2 (work for a company)
+1. zepeto-project-1 (collaborate with a company)
+2. zepeto-project-2 (collaborate with a company)
 
 ## Public Repository List
 1. study-computer-science
