@@ -85,7 +85,7 @@ C#의 객체지향적인 코드를 타입스크립트로 구현해 보는 경험
 - **네이버 제트 제페토 공모전에 참여했습니다.** <br>
 1등하고 상금 1000만원, 네이버 제트 인턴, 그리고 아이템 판매 수익까지 모두 달성할 계획입니다🙏 <br>
 <a href="https://world.zepeto.me/ko/detail/bKWN83wK88xtalsXDMaNbVW?referrer=copylink_share" target="_blank">현재 서비스중인 ZEPETO 젬토리 아일랜드 링크</a><br>
-![]
+![image](https://world.zepeto.me/ko/detail/bKWN83wK88xtalsXDMaNbVW?referrer=copylink_share)<br><br>
 <br><br>
 
 ## 5. 국민 프로그래밍 시리즈 연재하기(인공지능 프로젝트)
