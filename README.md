@@ -10,9 +10,9 @@
 <br>
 
 ## Private Organization Repository List
-1. zepeto-project-1 (외주 마감)
-2. zepeto-project-2 (외주 마감)
-3. zepeto-project-3 (공모전 진행중)
+1. zepeto-project-1 (외주)(https://world.zepeto.me/ko/detail/GV9UY3wK88xt9zhBVQBuN6L?referrer=copylink_share)
+2. zepeto-project-2 (외주)(https://world.zepeto.me/ko/detail/LPRv23wK87st7yK2hqaJ4sq?referrer=copylink_share)
+3. zepeto-project-3 (공모전 심사중)(https://world.zepeto.me/ko/detail/bKWN83wK88xtalsXDMaNbVW?referrer=copylink_share)
 
 <br>
 
