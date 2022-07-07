@@ -1,3 +1,20 @@
+## 리포지토리
+- 비공개 개인 리포지토리 목록<br>
+ZCRACKER<br><br>
+
+- 비공개 조직 리포지토리 목록<br>
+zepeto-project1(외주)<br>
+zepeto-project2(외주)<br>
+zepeto-project3(공모전 심사중)<br><br>
+
+
+- 공개 리포지토리 목록<br>
+study-cs<br>
+study-service<br>
+study-game<br>
+study-ai<br><br>
+
+
 ## 1. ZCRACKER(웹 프로젝트)
 - <span style="color: grey">서비스중인 프로젝트의 코드는 공개하지 않습니다</span>🙏<br><br>
 
