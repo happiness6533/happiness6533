@@ -9,13 +9,10 @@
 
 - **핵심 기능 두 번째**<br>
 일대일 채팅을 통해 소통하기 편하도록 만들었고, 진행한 클래스에는 자동으로 그룹 채팅을 연결해서 질문과 답변이 실시간으로 가능하도록 만들었습니다. 또한 질문과 답변에 최적화 된 채팅을 만들어 사용자들의 편의성을 높였습니다. <a href="https://zcracker.com/client/project/8">체험하기 링크</a><br>
-![]
 <br>
 
 - **핵심 기능 세 번째**<br>
 개발자로서 팀 프로젝트를 하는 일이 많았고 일을 하는데 비대면 회의는 모두에게 필수라고 생각해서, 메타버스 느낌을 곁들인 조금 재미있는 비대면 회의 시스템을 만들게 되었습니다. <a href="https://zcracker.com/client/channel/zcracker%EC%9D%98%20%EA%B0%9C%EC%9D%B8%20%EC%B1%84%EB%84%90">체험하기 링크</a><br>
-![]
-
 <br>
 
 - **클라이언트는 Vue를 기본으로 다양한 라이브러리를 사용했습니다.**<br>
@@ -43,7 +40,7 @@ WebRTC 기술에 대한 깊은 이해가 없는 상태에서 자바스크립트 
 
 
 ## 3. MMORPG 제작하기(게임 프로젝트)
-- <a href="https://github.com/happiness6533/study-game" target="_blank">게임 프로젝트 깃허브 링크</a><br><br>
+- <a href="https://github.com/happiness6533/study-game" target="_blank">MMORPG 제작 프로젝트 깃허브 링크</a><br><br>
 
 - **프로젝트 시작 배경**<br>
 자바스크립트로 웹 / 앱 서비스들을 구현하면서 객체 지향적인 코드와 거리가 멀어지게 되었습니다. 프레임워크와 라이브러리를 사용해서 같은 작업을 반복하는 기분이 들었고, 실력이 정체되는 느낌이 들어서, 한 단계 더 높은 수준의 개발자가 되고 싶었습니다. 몇 일의 고민 끝에 새로운 기술에 도전해 보기로 결정했고, <span style="color: #FF1493">**객체 지향적인 프로그래밍 언어 C#을 사용해서 유니티로 간단한 온라인 게임을 만들어 보기로 했습니다.**</span><br><br>
@@ -85,7 +82,7 @@ C#의 객체지향적인 코드를 타입스크립트로 구현해 보는 경험
 - **네이버 제트 제페토 공모전에 참여했습니다.** <br>
 1등하고 상금 1000만원, 네이버 제트 인턴, 그리고 아이템 판매 수익까지 모두 달성할 계획입니다🙏 <br>
 <a href="https://world.zepeto.me/ko/detail/bKWN83wK88xtalsXDMaNbVW?referrer=copylink_share" target="_blank">현재 서비스중인 ZEPETO 젬토리 아일랜드 링크</a><br>
-![image](https://world.zepeto.me/ko/detail/bKWN83wK88xtalsXDMaNbVW?referrer=copylink_share)<br><br>
+![image](https://cdn-studio-zcc.zepeto.me/world-42963/SCREENSHOT/95b3e61355614fdebb421906fbe6691a-w1200)<br><br>
 <br><br>
 
 ## 5. 국민 프로그래밍 시리즈 연재하기(인공지능 프로젝트)
