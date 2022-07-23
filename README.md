@@ -6,11 +6,11 @@ Banking-project(패션 브랜드 웹앱 서비스)<br>
 Monzland-project(메타버스)<br><br>
 
 - 비공개 조직 리포지토리 목록<br>
-zepeto-project1(외주)<br>
-zepeto-project2(외주)<br>
-zepeto-project3(공모전 1등)<br>
-xxyx-pos-project(외주)<br>
-xxyx-client-project(외주)<br><br>
+xxyx-pos-project(웹 외주)<br>
+xxyx-client-project(웹 외주)<br><br>
+zepeto-project1(메타버스 외주)<br>
+zepeto-project2(메타버스 외주)<br>
+zepeto-project3(메타버스 공모전 1등)<br>
 
 
 - 공개 리포지토리 목록<br>
