@@ -1,18 +1,21 @@
 ## 리포지토리
 - 비공개 개인 리포지토리 목록<br>
-ZCRACKER<br><br>
+Codingking-project(코딩 공부 웹 서비스)<br>
+Shoppingking-project(쇼핑 관련 앱 서비스)<br>
+Banking-project(패션 브랜드 웹앱 서비스)<br>
+Monzland-project(메타버스)<br><br>
 
 - 비공개 조직 리포지토리 목록<br>
 zepeto-project1(외주)<br>
 zepeto-project2(외주)<br>
-zepeto-project3(공모전 심사중)<br><br>
+zepeto-project3(공모전 1등)<br>
+xxyx-pos-project(외주)<br>
+xxyx-client-project(외주)<br><br>
 
 
 - 공개 리포지토리 목록<br>
-study-cs<br>
-study-service<br>
-study-game<br>
-study-ai<br><br>
+cs-lecture-project<br>
+ai-lecture-project<br><br>
 
 
 ## 1. ZCRACKER(웹 프로젝트)
